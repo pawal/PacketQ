@@ -1,3 +1,5 @@
+THIS PROJECT IS AS OF NOV 2014 CLOSED AND WILL NO LONGER BE MAINTAINED!
+
 PacketQ is a command line tool to run sql queries directly on pcap files.
 
 However, PacketQ also contain a very simplistic webserver in order 
